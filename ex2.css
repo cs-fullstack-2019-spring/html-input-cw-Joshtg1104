@@ -1,0 +1,36 @@
+
+
+body{
+    margin: 9% 29%;
+    display: block;
+    padding: 24px;
+    alignment: center;
+}
+
+header{
+    display: inline-block;
+    border: solid grey 2px;
+    padding: 15px;
+    text-align: center;
+    width: 30%;
+}
+
+section{
+    border: solid grey 2px;
+}
+
+.backgroundGrey{
+    background: grey;
+}
+
+.inlinebuddies{
+    display: inline-block;
+}
+
+.widthChanger1{
+    width: 71%;
+}
+
+.widthChanger2{
+    width: 34.8%;
+}
